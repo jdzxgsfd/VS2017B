@@ -1,0 +1,6 @@
+name:
+vs_BuildTools.exe
+link:
+http://aka.ms/vs/15/release/vs_BuildTools.exe
+zipBaseName:
+VS2017BuildTools.
